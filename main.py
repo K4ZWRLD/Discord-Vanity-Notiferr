@@ -6,10 +6,10 @@ os.system("clear||cls")
 
 care = commands.Bot(command_prefix="69", intents=discord.Intents.all())
 
-roleidtogive = 938306304294924328 #your role id
-vanity = "/testin"#your vanity 
+roleidtogive = 1050597642075394058 #your role id
+vanity = "/shio" #your vanity 
 tk = ""# token
-logging_channel_id = 938056704829038684 # channel id
+logging_channel_id = 1054928497279254599 # channel id
 
 @care.event
 async def on_ready():
